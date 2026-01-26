@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Ayanda Alton</h1>
+<h1 align="center">👋 Hi, I’m Ayanda luthuli</h1>
 <p align="center">
   <img src="Profile.jpg.jpeg" width="150" style="border-radius:50%;" />
 </p>
