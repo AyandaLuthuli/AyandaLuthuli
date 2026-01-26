@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Ayanda Alton</h1>
 <p align="center">
-  <img src="Profile.jpg" width="150" style="border-radius:50%;" />
+  <img src="Profile.jpg.jpeg" width="150" style="border-radius:50%;" />
 </p>
 
 <h3 align="center">Aspiring Software Developer | Java Enthusiast | Problem Solver</h3>
