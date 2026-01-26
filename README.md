@@ -1,105 +1,120 @@
-👋 Hi, I’m Ayanda Alton
+<h1 align="center">👋 Hi, I’m Ayanda Alton</h1>
+<h3 align="center">Aspiring Software Developer | Java Enthusiast | Problem Solver</h3>
 
-I’m an aspiring Software Developer with a strong interest in building practical, user-focused applications using modern web and backend technologies. I enjoy learning by building real projects and continuously improving my problem-solving and programming skills.
+<p align="center">
+  <a href="https://github.com/AyandaLuthuli">
+    <img src="https://komarev.com/ghpvc/?username=AyandaLuthuli&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-I’m currently focused on strengthening my foundation in Java, JavaScript, and web development, while working towards becoming a well-rounded full-stack developer.
+---
 
-🚀 Skills & Technologies
-💻 Programming Languages
+## 👨‍💻 About Me
 
-Java
+I’m an aspiring **Software Developer** with a strong interest in building practical, user-focused applications using modern **web and backend technologies**.
 
-JavaScript
+I learn best by **building real projects**, solving problems, and continuously sharpening my logical and programming skills.  
+Currently, I’m focused on strengthening my foundation in **Java**, **JavaScript**, and **web development**, working toward becoming a **well-rounded full-stack developer**.
 
-SQL
+---
 
-VB.NET
+## 🚀 Skills & Technologies
 
-🌐 Web Development
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+</p>
 
-HTML5
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-Basics-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
-CSS3
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-JavaScript (ES6+)
+### 🧠 Core Concepts
+- Object-Oriented Programming (OOP)  
+- Data Structures & Arrays  
+- Problem Solving & Logical Reasoning  
+- RESTful Concepts (Basics)  
 
-React (Basics)
+---
 
-🗄️ Databases
+## 🛠️ Projects
 
-MySQL
+### 🏥 Hospital Management System **(Main Project)**
+A system designed to manage hospital operations efficiently.
 
-Supabase
+**Key Features:**
+- Patient registration & records  
+- Doctor and staff management  
+- Appointment scheduling  
+- Role-based access (Admin / Staff)  
+- Structured database design  
 
-🧠 Core Concepts
+**Tech Stack:** Java, SQL, OOP  
 
-Object-Oriented Programming (OOP)
+---
 
-Data Structures & Arrays
-
-Problem Solving & Logical Reasoning
-
-RESTful Concepts (Basics)
-
-🛠️ Projects
-🍔 Gugu’s Kitchen – Online Ordering System
-
+### 🍔 Gugu’s Kitchen – Online Ordering System
 A dynamic food ordering website with:
+- Sticky navigation header  
+- Category-based menu  
+- Item customization modal  
+- Editable cart & order summary  
+- Supabase backend integration  
 
-Sticky navigation header
+**Tech Stack:** HTML, CSS, JavaScript, Supabase  
 
-Category-based menu
+---
 
-Item customization modal
-
-Editable cart and order summary
-
-Supabase backend integration
-
-Tech Stack: HTML, CSS, JavaScript, Supabase
-
-📚 Today I Learned (TIL) Web App
-
+### 📚 Today I Learned (TIL) Web App
 A simple fact-recording web app that allows users to log interesting things they learn daily.
 
-Features:
+**Features:**
+- Category-based facts (Technology, Science, History)  
+- Interactive UI  
+- React-based structure  
 
-Category-based facts (Technology, Science, History)
+**Tech Stack:** HTML, CSS, JavaScript, React  
 
-Interactive UI
+---
 
-React-based structure
-
-Tech Stack: HTML, CSS, JavaScript, React
-
-🌐 Personal Profile Website
-
+### 🌐 Personal Profile Website
 A responsive personal website showcasing my skills and background.
 
-Tech Stack: HTML & CSS
+**Tech Stack:** HTML & CSS  
 
-🎯 Current Focus
+---
 
-Deepening my Java knowledge
+## 🎯 Current Focus
+- Deepening my **Java** knowledge  
+- Practicing aptitude & logic-based problems  
+- Building real-world projects  
+- Preparing for **internships & skills programs**  
 
-Practicing aptitude & logic-based programming problems
+---
 
-Building real-world projects
+## 📈 Goals
+- Become a confident **Full-Stack Developer**  
+- Gain industry experience through internships & junior roles  
+- Build scalable and meaningful software solutions  
 
-Preparing for internships and skills programs
+---
 
-📈 Goals
+## 📫 Let’s Connect
+- 💻 GitHub: https://github.com/AyandaLuthuli  
+- 💼 LinkedIn: https://www.linkedin.com/in/ayanda-luthuli-b555b9348  
 
-Become a confident Full-Stack Developer
+---
 
-Gain industry experience through internships and junior roles
-
-Build scalable and meaningful software solutions
-
-📫 Let’s Connect
-
-GitHub: github.com/AyandaLuthuli
-
-LinkedIn:https://www.linkedin.com/in/ayanda-luthuli-b555b9348
-
-✨ Always learning. Always building.
+✨ **Always learning. Always building.**
