@@ -11,8 +11,6 @@ Java
 
 JavaScript
 
-Python
-
 SQL
 
 VB.NET
@@ -100,8 +98,8 @@ Build scalable and meaningful software solutions
 
 📫 Let’s Connect
 
-GitHub: github.com/YourUsername
+GitHub: github.com/AyandaLuthuli
 
-LinkedIn: (add when ready)
+LinkedIn:https://www.linkedin.com/in/ayanda-luthuli-b555b9348
 
 ✨ Always learning. Always building.
